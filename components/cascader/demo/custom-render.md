@@ -28,7 +28,7 @@ const options = [
           {
             value: 'xihu',
             label: 'West Lake',
-            code: 752100,
+            code: 3210000000,
           },
         ],
       },
